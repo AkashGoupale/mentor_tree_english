@@ -36,6 +36,7 @@
 ## Giri
 * Amit Yadav
 * Ranashis
+* Akash Goupale
 
 
 ## Jaideep 
@@ -53,7 +54,9 @@
 
 ## Praveen Vaishanav
 * Shreyansh verma
+* Abhijeet
 
 
 ## Mahendra Shah
 * Govind
+* Bhumesh 
